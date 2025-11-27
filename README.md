@@ -141,4 +141,3 @@ Stores user-defined budgets:
 
 Personal Finance Tracker — Python + Streamlit Project.
 
-Agar aap documentation ko aur detail mein chahte hain, batayen — main README ko mazeed improve kar dunga!
